@@ -1,2 +1,3 @@
-# REST API 3DAW191 v1.1.7
+# REST API 3DAW
+## Última versão: 1.2.2 - 16/05/2019
 ## Trabalho Faeterj-RIO
